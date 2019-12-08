@@ -1,0 +1,6 @@
+com\fashionFrontend2\controller\PaymentController.class
+com\fashionFrontend2\controller\ProductController.class
+com\fashionFrontend2\controller\CategoryController.class
+com\fashionFrontend2\controller\CartController.class
+com\fashionFrontend2\controller\PageController.class
+com\fashionFrontend2\controller\UserController.class
