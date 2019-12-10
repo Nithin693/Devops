@@ -9,67 +9,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-<!-- 
-<style>
-
-.carousel-item {
-  height: 100vh;
-  background: #212121;
-}
-
-.carousel-control-next,
-.carousel-control-prev {
-  width: 8% !important;
-}
-
-.carousel-item.active,
-.carousel-item-left,
-.carousel-item-right {
-  display: flex !important;
-  justify-content: center;
-  align-items: center;
-}
-
-.carousel-item h1 {
-    color: #fff;
-    font-size: 72px;
-    padding: 0 10%;
- }
- .bannerContainer {
-    position:relative;     
-}
-.carousel {
-    position:absolute;
-    top:0;    
-}
-.navbar {
-    position:absolute;
-    top:0px;
-    z-index:10;
-    background:#fff;
-    width:100%;
-}                                   
-
-
-
-
-#navbar-primary .navbar-nav { 
-//  background: #ededed;
-  width: 100%;
-  text-align: center;
-  > li {
-   
-    float: none;
-    display:inline-block;
-    > a {
-      padding-left: 30px;
-      padding-right: 30px;
-    }
-  }
-}
-
-</style>
- -->
 
 
 <body style="height:device-height;width:device-width">
@@ -120,10 +59,10 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="D:\Devops project\fashionFrontend2\src\main\webapp\1.jpg" class="d-block w-100" alt="..."/>
+      <img src="C:\NiitProject-master\fashionFrontend2\src\main\webapp\1.jpg" class="d-block w-100" alt="..."/>
     </div>
     <div class="carousel-item">
-      <img src="D:\Devops project\fashionFrontend2\src\main\webapp\2.jpg" class="d-block w-100" alt="..."/>
+      <img src="C:\NiitProject-master\fashionFrontend2\src\main\webapp\2.jpg" class="d-block w-100" alt="..."/>
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
